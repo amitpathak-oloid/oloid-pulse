@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sneha Verma",
+    "email": "sneha.verma@oloid.com",
+    "location": "Fremont",
+    "team": "Product",
+    "phone": "+1-408-555-1212",
+    "birthday": "1992-11-20",
+    "anniversary": "2021-08-15"
+  },
+  {
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@oloid.com",
+    "location": "Bangalore",
+    "team": "Engineering",
+    "phone": "+91-9876543210",
+    "birthday": "1989-03-12",
+    "anniversary": "2018-07-01"
+  },
+  {
+    "name": "Nikita Rao",
+    "email": "nikita.rao@oloid.com",
+    "location": "Hyderabad",
+    "team": "Customer Success",
+    "phone": "+91-9988776655",
+    "birthday": "1994-05-28",
+    "anniversary": "2022-02-14"
+  },
+  {
+    "name": "Carlos Reyes",
+    "email": "carlos.reyes@oloid.com",
+    "location": "Austin",
+    "team": "Sales",
+    "phone": "+1-737-321-4567",
+    "birthday": "1985-09-05",
+    "anniversary": "2020-11-11"
+  },
+  {
+    "name": "Tanvi Sharma",
+    "email": "tanvi.sharma@oloid.com",
+    "location": "Noida",
+    "team": "People Ops",
+    "phone": "+91-9123456780",
+    "birthday": "1993-08-19",
+    "anniversary": "2019-10-10"
+  },
+  {
+    "name": "Jayden Lee",
+    "email": "jayden.lee@oloid.com",
+    "location": "Fremont",
+    "team": "Engineering",
+    "phone": "+1-510-123-9876",
+    "birthday": "1990-12-01",
+    "anniversary": "2016-03-23"
+  },
+  {
+    "name": "Aditi Deshmukh",
+    "email": "aditi.deshmukh@oloid.com",
+    "location": "Pune",
+    "team": "QA",
+    "phone": "+91-9876512345",
+    "birthday": "1991-06-10",
+    "anniversary": "2021-01-01"
+  },
+  {
+    "name": "Michael Johnson",
+    "email": "michael.johnson@oloid.com",
+    "location": "Chicago",
+    "team": "Marketing",
+    "phone": "+1-773-555-3344",
+    "birthday": "1988-10-03",
+    "anniversary": "2019-09-20"
+  },
+  {
+    "name": "Ritika Singh",
+    "email": "ritika.singh@oloid.com",
+    "location": "Bangalore",
+    "team": "Professional Services",
+    "phone": "+91-9001234567",
+    "birthday": "1995-04-18",
+    "anniversary": "2023-05-10"
+  },
+  {
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@oloid.com",
+    "location": "Noida",
+    "team": "Finance",
+    "phone": "+91-9876001122",
+    "birthday": "1990-02-09",
+    "anniversary": "2020-06-30"
+  }
+]
